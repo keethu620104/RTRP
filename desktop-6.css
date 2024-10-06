@@ -1,0 +1,244 @@
+.desktop-6-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-200);
+  width: 1440px;
+  height: 21px;
+}
+
+.your-bag-is-container {
+  position: absolute;
+  top: 489px;
+  left: 211px;
+  display: inline-block;
+  width: 1038px;
+  height: 131px;
+  /* background-color: var(--color-darkslategray-100); */
+}
+.desktop-6-item {
+  position: absolute;
+  top: 632px;
+  left: 537px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dimgray);
+  width: 353px;
+  height: 82px;
+}
+.continue-shopping {
+  position: absolute;
+  top: 651px;
+  left: 552px;
+  color: var(--color-white);
+  cursor: pointer;
+}
+
+.desktop-6-inner {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  /* background-color: var(--color-dimgray); */
+  background-color: #d4edda;
+}
+
+.bag {
+  position: absolute;
+  top: 90px;
+  left: 283px;
+}
+.desktop-6-child1,
+.desktop-6-child2 {
+  position: absolute;
+  top: 112px;
+  left: 392px;
+  width: 128px;
+  height: 1.5px;
+  object-fit: contain;
+}
+.desktop-6-child2 {
+  left: 838px;
+}
+.delivery-details,
+.icon,
+.payment {
+  position: absolute;
+  top: 92px;
+  left: 569px;
+}
+.icon,
+.payment {
+  left: 1015px;
+}
+.icon {
+  top: 225px;
+  left: 599px;
+  border-radius: 600px;
+  width: 263px;
+  height: 246px;
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+}
+.desktop-6-child3 {
+  position: absolute;
+  top: 748px;
+  left: 0;
+  background-color: var(--color-lightgray);
+  width: 1440px;
+  height: 314px;
+}
+.icon-facebook-v16,
+.icon-google7,
+.icon-instagram-round5 {
+  position: absolute;
+  height: 4.54%;
+  width: 3.47%;
+  top: 79.53%;
+  right: 25.14%;
+  bottom: 15.92%;
+  left: 71.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+/* Example styles for cart items */
+.desktop-6 {
+  font-family: 'Inter', sans-serif;
+  /* Add more styles as needed */
+}
+
+.desktop-6-inner {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #c2b9b9;
+  padding: 10px 0;
+}
+
+.item-image {
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  margin-right: 20px;
+}
+
+.item-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Item details */
+.item-details {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.item-name {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.item-price {
+  font-size: 20px;
+  color: #777;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+/* Remove item button */
+.remove-item {
+  align-self: flex-start;
+  background-color: #ff4d4d;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+.remove-item:hover {
+  background-color: #e60000;
+}
+
+/* Empty cart message */
+.your-bag-is-empty {
+  text-align: center;
+  font-size: 18px;
+  color: #92ac8e;
+  margin-top: 20px;
+}
+
+.icon-facebook-v16,
+.icon-google7 {
+  top: 79.17%;
+  right: 30.14%;
+  bottom: 16.28%;
+  left: 66.39%;
+}
+.icon-facebook-v16 {
+  height: 4.45%;
+  top: 79.35%;
+  right: 20.14%;
+  bottom: 16.19%;
+  left: 76.39%;
+}
+.blank-line18 {
+  margin: 0;
+  color: var(--color-white);
+}
+.connect-with-us-container5 {
+  position: absolute;
+  top: 821px;
+  left: 940px;
+  font-size: var(--font-size-11xl);
+  text-align: left;
+  display: inline-block;
+  width: 246px;
+  height: 132px;
+}
+.desktop-6-child4 {
+  position: absolute;
+  top: 1062px;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  width: 1440px;
+  height: 55px;
+}
+.cookie-policy-faq-container5,
+.terms-conditions-container5 {
+  position: absolute;
+  top: 821px;
+  left: 98px;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.05em;
+  text-align: left;
+}
+.cookie-policy-faq-container5 {
+  left: 548px;
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1109px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+}

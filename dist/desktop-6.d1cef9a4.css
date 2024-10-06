@@ -1,0 +1,238 @@
+.desktop-6-child {
+  background-color: var(--color-darkslategray-200);
+  width: 1440px;
+  height: 21px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.your-bag-is-container {
+  width: 1038px;
+  height: 131px;
+  display: inline-block;
+  position: absolute;
+  top: 489px;
+  left: 211px;
+}
+
+.desktop-6-item {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dimgray);
+  width: 353px;
+  height: 82px;
+  position: absolute;
+  top: 632px;
+  left: 537px;
+}
+
+.continue-shopping {
+  color: var(--color-white);
+  cursor: pointer;
+  position: absolute;
+  top: 651px;
+  left: 552px;
+}
+
+.desktop-6-inner {
+  align-items: left;
+  background-color: #d4edda;
+  flex-direction: column;
+  justify-content: left;
+  margin-top: 20px;
+  display: flex;
+}
+
+.bag {
+  position: absolute;
+  top: 90px;
+  left: 283px;
+}
+
+.desktop-6-child1, .desktop-6-child2 {
+  object-fit: contain;
+  width: 128px;
+  height: 1.5px;
+  position: absolute;
+  top: 112px;
+  left: 392px;
+}
+
+.desktop-6-child2 {
+  left: 838px;
+}
+
+.delivery-details, .icon, .payment {
+  position: absolute;
+  top: 92px;
+  left: 569px;
+}
+
+.icon, .payment {
+  left: 1015px;
+}
+
+.icon {
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+  border-radius: 600px;
+  width: 263px;
+  height: 246px;
+  top: 225px;
+  left: 599px;
+}
+
+.desktop-6-child3 {
+  background-color: var(--color-lightgray);
+  width: 1440px;
+  height: 314px;
+  position: absolute;
+  top: 748px;
+  left: 0;
+}
+
+.icon-facebook-v16, .icon-google7, .icon-instagram-round5 {
+  width: 3.47%;
+  max-width: 100%;
+  height: 4.54%;
+  max-height: 100%;
+  position: absolute;
+  inset: 79.53% 25.14% 15.92% 71.39%;
+  overflow: hidden;
+}
+
+.desktop-6 {
+  font-family: Inter, sans-serif;
+}
+
+.desktop-6-inner {
+  background-color: #f9f9f9;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+.cart-item {
+  border-bottom: 1px solid #c2b9b9;
+  align-items: center;
+  padding: 10px 0;
+  display: flex;
+}
+
+.item-image {
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  margin-right: 20px;
+}
+
+.item-image img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.item-details {
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  display: flex;
+}
+
+.item-name {
+  text-align: left;
+  margin-bottom: 5px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.item-price {
+  color: #777;
+  text-align: left;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.remove-item {
+  color: #fff;
+  cursor: pointer;
+  background-color: #ff4d4d;
+  border: none;
+  border-radius: 3px;
+  align-self: flex-start;
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.remove-item:hover {
+  background-color: #e60000;
+}
+
+.your-bag-is-empty {
+  text-align: center;
+  color: #92ac8e;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.icon-facebook-v16, .icon-google7 {
+  inset: 79.17% 30.14% 16.28% 66.39%;
+}
+
+.icon-facebook-v16 {
+  height: 4.45%;
+  inset: 79.35% 20.14% 16.19% 76.39%;
+}
+
+.blank-line18 {
+  color: var(--color-white);
+  margin: 0;
+}
+
+.connect-with-us-container5 {
+  font-size: var(--font-size-11xl);
+  text-align: left;
+  width: 246px;
+  height: 132px;
+  display: inline-block;
+  position: absolute;
+  top: 821px;
+  left: 940px;
+}
+
+.desktop-6-child4 {
+  background-color: var(--color-darkslategray-100);
+  width: 1440px;
+  height: 55px;
+  position: absolute;
+  top: 1062px;
+  left: 0;
+}
+
+.cookie-policy-faq-container5, .terms-conditions-container5 {
+  font-size: var(--font-size-11xl);
+  letter-spacing: .05em;
+  text-align: left;
+  position: absolute;
+  top: 821px;
+  left: 98px;
+}
+
+.cookie-policy-faq-container5 {
+  left: 548px;
+}
+
+.desktop-6 {
+  background-color: var(--color-white);
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+  width: 100%;
+  height: 1109px;
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=desktop-6.d1cef9a4.css.map */

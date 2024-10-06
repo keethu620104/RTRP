@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, width=device-width">
+    <link rel="stylesheet" href="/desktop-14.689f5f05.css">
+    <link rel="stylesheet" href="/frame-9.afb5c6fc.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Arsenal:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@400&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap">
+</head>
+<body>
+    <div class="desktop-25">
+        <div class="desktop-25-child"></div>
+        <div class="desktop-25-item"></div>
+        <img class="whatsapp-image-2024-04-19-at-120" alt="" src="/whatsapp-image-20240419-at-1945-1@2x.6c5b2abd.png">
+        <form id="loginform">
+            <div class="email-address-parent">
+                <div class="email-address3">Email Address</div>
+                <input class="frame-child9" type="email" id="email" name="email" placeholder="Enter your email">
+                <div class="password4">Password</div>
+                <input class="frame-child10" type="password" id="password" name="password" placeholder="Enter your password">
+                <div class="frame-child11"></div>
+                <div class="login15" onclick="submitForm()">LOGIN</div>
+            </div>
+        </form>
+        <script>function submitForm() {
+    var email = document.querySelector('input[name="email"]').value;
+    var password = document.querySelector('input[name="password"]').value;
+    if (email === "keerthanashakkari@gmail.com" && password === "keethu620104") {
+        localStorage.setItem("loggedIn", "true"); // Set user as logged in
+        alert("Login successful");
+        window.location.href = "after_login.html"; // Redirect after login
+    } else alert("Invalid email or password");
+}
+
+</script>
+    </div>
+<script src="/frame-9.4f7b601e.js"></script></body>
+</html>

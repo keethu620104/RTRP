@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+}
+
+:root {
+  /* fonts */
+  --font-arsenal: Arsenal;
+  --font-lora: Lora;
+  --font-rokkitt: Rokkitt;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-3xl: 22px;
+  --font-size-31xl: 50px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-41xl: 60px;
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --font-size-16xl: 35px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-lightgray: #d8d4d5;
+  --color-gray-100: #402e2a;
+  --color-gray-200: rgba(255, 255, 255, 0.2);
+  --color-darkgray-100: #acad94;
+  --color-darkgray-200: rgba(172, 173, 148, 0.5);
+  --color-darkslategray-100: #384d48;
+  --color-darkslategray-200: rgba(56, 77, 72, 0.95);
+  --color-dimgray: #6e7271;
+  --color-gainsboro: #d9d9d9;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-6xs: 7px;
+  --br-3xs: 10px;
+}
+.c5234c9e86a75189fc96a-17005491-icon {
+  position: absolute;
+  top: 214px;
+  left: 40px;
+  width: 290px;
+  height: 317px;
+  object-fit: cover;
+}

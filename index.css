@@ -1,0 +1,735 @@
+.desktop-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-200);
+  width: 1440px;
+  height: 21px;
+}
+.accessories,
+.books,
+.clothing,
+.scents {
+  position: absolute;
+  top: 65px;
+  left: 137px;
+  display: inline-block;
+  width: 97px;
+}
+.accessories,
+.books,
+.scents {
+  left: 266px;
+  width: 138px;
+}
+.books,
+.scents {
+  left: 432px;
+  width: 111px;
+}
+.books {
+  top: 64px;
+  left: 543px;
+  width: 72px;
+  backdrop-filter: blur(4px);
+}
+.desktop-1-item {
+  position: absolute;
+  top: 59px;
+  left: 668px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lightgray);
+  width: 429px;
+  height: 38px;
+}
+.login,
+.search-for-products {
+  position: absolute;
+  white-space: pre-wrap;
+}
+.search-for-products {
+  top: 67px;
+  left: 704px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 304px;
+  height: 19px;
+  mix-blend-mode: overlay;
+}
+.login {
+  top: 68px;
+  left: 1140px;
+}
+.phbag-icon,
+.sign-up {
+  position: absolute;
+  top: 69px;
+  left: 1242px;
+}
+.phbag-icon {
+  top: 63px;
+  left: 1360px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 616px;
+  left: 0;
+  background-color: var(--color-lightgray);
+  width: 1440px;
+  height: 500px;
+}
+.istockphoto-1443487382-612x612-icon {
+  position: absolute;
+  top: 657px;
+  left: 733px;
+  width: 661px;
+  height: 431px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 939px;
+  left: 301px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dimgray);
+  width: 135px;
+  height: 47px;
+  cursor: pointer;
+}
+.buy-now {
+  position: absolute;
+  top: 950px;
+  left: 327px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.love-at-first,
+.winter-wear {
+  position: absolute;
+  top: 681px;
+  left: 176px;
+  font-size: var(--font-size-41xl);
+}
+.love-at-first {
+  top: 794px;
+  left: 157px;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-lora);
+}
+.desktop-1-child1,
+.desktop-1-child2 {
+  position: absolute;
+  top: 1117px;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 1440px;
+  height: 500px;
+}
+.desktop-1-child2 {
+  top: 2114px;
+}
+.scents-candles {
+  position: absolute;
+  top: 1200px;
+  left: 825px;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+}
+.desktop-1-child3 {
+  position: absolute;
+  top: 1457px;
+  left: 1004px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray);
+  width: 135px;
+  height: 47px;
+  cursor: pointer;
+}
+.buy-now1 {
+  position: absolute;
+  top: 1468px;
+  left: 1030px;
+  font-size: var(--font-size-xl);
+}
+.spraying-love-and,
+.spritz-smell-repeat,
+.sweater-weather-but {
+  position: absolute;
+  top: 871px;
+  left: 121px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-rokkitt);
+}
+.spraying-love-and,
+.spritz-smell-repeat {
+  top: 1401px;
+  left: 772px;
+  color: var(--color-white);
+}
+.spritz-smell-repeat {
+  top: 1315px;
+  left: 834px;
+  font-size: var(--font-size-31xl);
+  font-weight: 600;
+  font-family: var(--font-lora);
+}
+.desktop-1-child4 {
+  position: absolute;
+  top: 1617px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 500px;
+}
+.en-idei-club-p-accessory-aesth-icon,
+.six-nostalgic-fragrances-to-he-icon {
+  position: absolute;
+  top: 1642px;
+  left: 753px;
+  width: 637px;
+  height: 450px;
+  object-fit: cover;
+}
+.six-nostalgic-fragrances-to-he-icon {
+  top: 1138px;
+  left: 42px;
+  width: 677px;
+}
+.accessories-more,
+.books1 {
+  position: absolute;
+  top: 1687px;
+  left: 98px;
+  font-size: var(--font-size-41xl);
+}
+.books1 {
+  top: 2165px;
+  left: 945px;
+  color: var(--color-white);
+}
+.let-your-accessories {
+  margin: 0;
+}
+.fall-into-the-container,
+.let-your-accessories-container {
+  position: absolute;
+  top: 1784px;
+  left: 57px;
+  font-size: var(--font-size-31xl);
+  font-weight: 600;
+  font-family: var(--font-lora);
+}
+.fall-into-the-container {
+  top: 2240px;
+  left: 754px;
+  color: var(--color-white);
+}
+.bookworm-alert,
+.dainty-pieces-big {
+  position: absolute;
+  top: 1934px;
+  left: 194px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-rokkitt);
+}
+.bookworm-alert {
+  top: 2394px;
+  left: 956px;
+  color: var(--color-white);
+}
+.desktop-1-child5 {
+  position: absolute;
+  top: 2009px;
+  left: 301px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dimgray);
+  width: 135px;
+  height: 47px;
+  cursor: pointer;
+}
+.buy-now2 {
+  position: absolute;
+  top: 2020px;
+  left: 327px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.a19fb8c2020ca9ee7ea7b3e3541ae6-icon {
+  position: absolute;
+  top: 2139px;
+  left: 37px;
+  width: 677px;
+  height: 450px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 2481px;
+  left: 989px;
+  border-radius: var(--br-3xs);
+  width: 135px;
+  height: 47px;
+  cursor: pointer;
+}
+.buy-now3 {
+  position: absolute;
+  top: 2492px;
+  left: 1016px;
+  font-size: var(--font-size-xl);
+}
+.whatsapp-image-2024-04-19-at-1 {
+  position: absolute;
+  top: 36px;
+  left: 20px;
+  border-radius: var(--br-81xl);
+  width: 101px;
+  height: 67px;
+  object-fit: cover;
+}
+.magnifying-glass-icon-96x96-1m {
+  position: absolute;
+  top: 68px;
+  left: calc(50% - 44px);
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+}
+.desktop-1-child7 {
+  position: absolute;
+  top: 2611px;
+  left: 0;
+  background-color: var(--color-lightgray);
+  width: 1440px;
+  height: 314px;
+}
+.icon-facebook-v1,
+.icon-google,
+.icon-instagram-round {
+  position: absolute;
+  height: 1.69%;
+  width: 3.47%;
+  top: 92.11%;
+  right: 25.14%;
+  bottom: 6.19%;
+  left: 71.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-facebook-v1,
+.icon-google {
+  top: 91.98%;
+  right: 30.14%;
+  bottom: 6.33%;
+  left: 66.39%;
+}
+.icon-facebook-v1 {
+  height: 1.66%;
+  top: 92.05%;
+  right: 20.14%;
+  bottom: 6.3%;
+  left: 76.39%;
+}
+.blank-line2 {
+  margin: 0;
+  color: var(--color-white);
+}
+.connect-with-us-container {
+  position: absolute;
+  top: 2684px;
+  left: 940px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 358px;
+  height: 201px;
+}
+.desktop-1-child10,
+.desktop-1-child11,
+.desktop-1-child8,
+.desktop-1-child9 {
+  position: absolute;
+  top: 2925px;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  width: 1440px;
+  height: 55px;
+}
+.desktop-1-child10,
+.desktop-1-child11,
+.desktop-1-child9 {
+  top: 123px;
+  width: 733px;
+  height: 493px;
+}
+.desktop-1-child10,
+.desktop-1-child11 {
+  left: 733px;
+  backdrop-filter: blur(4px);
+  background-color: var(--color-darkgray-100);
+  width: 707px;
+}
+.desktop-1-child11 {
+  left: 0;
+  backdrop-filter: blur(350px);
+  background-color: var(--color-gray-200);
+  width: 1440px;
+}
+.ac03ecfcde81cb247693b49c5ceeaf-icon,
+.eb7016908c446f2defda5ae2df2403-icon {
+  position: absolute;
+  top: 146px;
+  left: -13px;
+  width: 385px;
+  height: 433px;
+  object-fit: cover;
+}
+.ac03ecfcde81cb247693b49c5ceeaf-icon {
+  left: 1100px;
+  width: 348px;
+}
+.elevate-your-surroundings-container {
+  position: absolute;
+  top: 184px;
+  left: 407px;
+  font-size: var(--font-size-31xl);
+  font-weight: 700;
+  font-family: var(--font-lora);
+  color: var(--color-white);
+  text-align: center;
+}
+.desktop-1-child12 {
+  position: absolute;
+  top: 437px;
+  left: 685px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-lightgray);
+  width: 140px;
+  height: 60px;
+  cursor: pointer;
+}
+.shop-now {
+  position: absolute;
+  top: calc(50% - 1037px);
+  left: calc(50% - 17px);
+}
+.cookie-policy-faq-container,
+.terms-conditions-container {
+  position: absolute;
+  top: 2684px;
+  left: 98px;
+  font-size: var(--font-size-11xl);
+  text-decoration: underline;
+  letter-spacing: 0.05em;
+}
+.cookie-policy-faq-container {
+  left: 548px;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2980px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+}
+.login1 {
+  position: absolute;
+  top: 41px;
+  left: 288px;
+  font-size: 48px;
+  font-family: var(--font-lora);
+}
+.email-address {
+  position: absolute;
+  top: 132px;
+  left: 59px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 297px;
+  height: 55px;
+}
+.frame-child,
+.password {
+  position: absolute;
+  left: 69px;
+}
+.frame-child {
+  top: 187px;
+  border-radius: var(--br-3xs);
+  width: 585px;
+  height: 63px;
+}
+.password {
+  top: 278px;
+  font-size: var(--font-size-21xl);
+}
+.frame-item {
+  position: absolute;
+  top: 334px;
+  left: 71px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-200);
+  width: 585px;
+  height: 63px;
+}
+.frame-inner {
+  position: absolute;
+  top: 416px;
+  left: 80px;
+  border-radius: 5px;
+  background-color: var(--color-gainsboro);
+  width: 25px;
+  height: 25px;
+}
+.remember-me-on {
+  position: absolute;
+  top: 416px;
+  left: 119px;
+  font-size: var(--font-size-xl);
+}
+.line-icon {
+  position: absolute;
+  top: 474px;
+  left: 60px;
+  width: 263px;
+  height: 2px;
+  object-fit: contain;
+}
+.frame-child1,
+.or {
+  position: absolute;
+  top: 455px;
+  left: 353px;
+}
+.frame-child1 {
+  top: 471px;
+  left: 397px;
+  width: 285.7px;
+  height: 11px;
+  object-fit: contain;
+}
+.frame-child2,
+.frame-child3 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-200);
+  width: 590px;
+  height: 63px;
+}
+.frame-child2 {
+  top: 504.9px;
+  left: 65px;
+  transform: rotate(-0.2deg);
+  transform-origin: 0 0;
+}
+.frame-child3 {
+  top: 605px;
+  left: 67px;
+}
+.continue-with-facebook,
+.continue-with-google {
+  position: absolute;
+  top: 521px;
+  left: 148px;
+  font-size: var(--font-size-5xl);
+}
+.continue-with-facebook {
+  top: 622px;
+}
+.email {
+  position: absolute;
+  top: 201px;
+  left: 86px;
+  font-family: var(--font-inter);
+  mix-blend-mode: overlay;
+}
+.icon-facebook-v11,
+.icon-google1 {
+  position: absolute;
+  height: 5.24%;
+  width: 5.46%;
+  top: 69.37%;
+  right: 83.88%;
+  bottom: 25.4%;
+  left: 10.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-facebook-v11 {
+  top: 83.4%;
+  bottom: 11.36%;
+}
+.password1 {
+  position: absolute;
+  top: 348px;
+  left: 92px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  mix-blend-mode: overlay;
+}
+.login-parent {
+  width: 732px;
+  position: relative;
+  backdrop-filter: blur(20px);
+  background-color: var(--color-white);
+  border: 4px solid var(--color-gray-100);
+  box-sizing: border-box;
+  height: 741px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+}
+.create-a-new {
+  position: absolute;
+  top: 55px;
+  left: 97px;
+  font-weight: 500;
+  font-family: var(--font-lora);
+}
+.frame-child4,
+.name {
+  position: absolute;
+  top: 171px;
+  left: 60px;
+}
+.frame-child4 {
+  top: 219px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-200);
+  width: 585px;
+  height: 63px;
+}
+.email-address1,
+.frame-child5 {
+  position: absolute;
+  top: 330px;
+  left: 60px;
+}
+.frame-child5 {
+  top: 378px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-200);
+  width: 585px;
+  height: 63px;
+}
+.email-address2 {
+  position: absolute;
+  top: 395px;
+  left: 79px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  mix-blend-mode: overlay;
+}
+.password2 {
+  position: absolute;
+  top: 489px;
+  left: 60px;
+}
+.frame-child6 {
+  top: 537px;
+  left: 60px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-200);
+  width: 585px;
+  height: 63px;
+}
+.frame-child6,
+.line-div,
+.or1 {
+  position: absolute;
+}
+.line-div {
+  top: 653.5px;
+  left: 43.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 285px;
+  height: 1px;
+}
+.or1 {
+  top: 633px;
+  left: 345px;
+  font-size: var(--font-size-11xl);
+}
+.frame-child7 {
+  position: absolute;
+  top: 652px;
+  left: 390px;
+  width: 255px;
+  height: 2px;
+  object-fit: contain;
+}
+.frame-child8 {
+  position: absolute;
+  top: 691.9px;
+  left: 57px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-200);
+  width: 590px;
+  height: 63px;
+  transform: rotate(-0.2deg);
+  transform-origin: 0 0;
+}
+.continue-with-google1 {
+  position: absolute;
+  top: 708px;
+  left: 140px;
+  font-size: var(--font-size-5xl);
+}
+.icon-google2 {
+  position: absolute;
+  height: 4.89%;
+  width: 5.71%;
+  top: 84.7%;
+  right: 84.71%;
+  bottom: 10.41%;
+  left: 9.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.name1,
+.password3 {
+  position: absolute;
+  top: 236px;
+  left: 79px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  mix-blend-mode: overlay;
+}
+.password3 {
+  top: 554px;
+}
+.create-a-new-account-parent {
+  width: 700px;
+  position: relative;
+  background-color: var(--color-white);
+  border: 4px solid var(--color-gray-100);
+  box-sizing: border-box;
+  height: 830px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+}
+.sign-out {
+  position: absolute;
+  top: 63px;
+  left: 1199px;
+  font-size: var(--font-size-3xl);
+}

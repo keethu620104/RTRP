@@ -1,0 +1,108 @@
+.desktop-25-child,
+.desktop-25-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-200);
+  width: 1440px;
+  height: 21px;
+}
+.desktop-25-item {
+  top: 969px;
+  background-color: var(--color-darkslategray-100);
+  height: 55px;
+}
+.whatsapp-image-2024-04-19-at-120 {
+  position: absolute;
+  top: 52px;
+  left: 24px;
+  border-radius: var(--br-81xl);
+  width: 101px;
+  height: 67px;
+  object-fit: cover;
+}
+.email-address3 {
+  position: absolute;
+  top: 66px;
+  left: 57px;
+  display: inline-block;
+  width: 297px;
+  height: 55px;
+}
+.frame-child9 {
+  position: absolute;
+  top: 121px;
+  left: 67px;
+  border-radius: var(--br-3xs);
+  width: 585px;
+  height: 63px;
+}
+.frame-child10,
+.password4 {
+  position: absolute;
+  top: 212px;
+  left: 67px;
+}
+.frame-child10 {
+  top: 268px;
+  left: 69px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-200);
+  width: 585px;
+  height: 63px;
+}
+.email1,
+.password5 {
+  position: absolute;
+  top: 135px;
+  left: 84px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inter);
+  mix-blend-mode: overlay;
+}
+.password5 {
+  top: 282px;
+  left: 90px;
+  font-weight: 500;
+}
+.frame-child11 {
+  position: absolute;
+  top: 397px;
+  left: 249px;
+  border-radius: 20px;
+  background-color: var(--color-gainsboro);
+  width: 231px;
+  height: 80px;
+}
+.login15 {
+  position: absolute;
+  top: 406px;
+  left: 284px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-lora);
+}
+.desktop-25,
+.email-address-parent {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.email-address-parent {
+  position: absolute;
+  top: 247px;
+  left: 383px;
+  backdrop-filter: blur(20px);
+  border-radius: 50px;
+  border: 4px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 732px;
+  height: 530px;
+}
+.desktop-25 {
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-arsenal);
+}
